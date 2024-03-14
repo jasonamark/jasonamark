@@ -1,6 +1,6 @@
 <img src="https://github.com/jasonamark/jasonamark/blob/main/matrix-introduction.gif" width="100%" />
 
-In this simulation, I'm an architect that sculpts the canvas of the visual world. I take data and create captivating visuals using event handlers that trigger transitions and animations that bring the world to life.
+In this simulation, I'm an architect that sculpts the canvas of the visual world. I take data and create captivating visuals using event handlers that trigger animations and transitions that bring the world to life.
 
 #### Development Tools
 
