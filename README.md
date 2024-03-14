@@ -1,10 +1,10 @@
 <img src="https://github.com/jasonamark/jasonamark/blob/main/matrix-introduction.gif" width="100%" />
 
-In this simulation, I'm an architect who sculpts the canvas of the visual world. I take data and create captivating visuals using event handlers that trigger transitions and animations that bring the world to life.
+In this simulation, I'm an architect that sculpts the canvas of the visual world. I take data and create captivating visuals using event handlers that trigger transitions and animations that bring the world to life.
 
-### My Development Tools
+### Development Tools
 
-My tools allow me to manipulate the digital environment, turning abstract data into interactive, engaging experiences that enchant the viewer. In this realm, I use code to paint dynamic landscapes where each interaction tells a story and every detail contributes to the immersive tapestry of the user's experience.
+My tools allow me to manipulate the digital environment, turning abstract data into interactive, engaging experiences that enchant audiences. I use code to paint dynamic landscapes where each interaction tells a story and every detail contributes to the immersive tapestry of the user's experience.
 
 <table align="center">
   <tr>
