@@ -4,7 +4,7 @@ In this simulation, I'm an architect that sculpts the canvas of the visual world
 
 #### Development Tools
 
-My tools allow me to manipulate the digital environment, turning abstract data into interactive, engaging experiences that enchant audiences. I use code to paint dynamic landscapes where each interaction tells a story and every detail contributes to the immersive tapestry of the user's experience.
+My tools allow me to manipulate the digital environment, turning abstract data into interactive, engaging immersive experiences that enchant audiences. I use code to paint dynamic landscapes where each interaction tells a story and every detail contributes to the immersive tapestry of the user's experience.
 
 <table>
   <tr>
