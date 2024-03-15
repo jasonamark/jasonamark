@@ -1,6 +1,6 @@
 <img src="https://github.com/jasonamark/jasonamark/blob/main/matrix-introduction.gif" width="100%" />
 
-In this simulation, I'm an architect that renders the canvas of the digital world. By transforming data into captivating visuals, I employ event handlers, animations, and transitions to breathe life into the world.
+In this simulation, I'm an architect that renders the canvas of the digital world. By transforming data into captivating visuals, I employ event handlers, animations, and transitions that breathe life.
 
 #### Development Tools
 
